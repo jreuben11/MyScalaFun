@@ -22,8 +22,7 @@ object Quickstart {
     // 4 classes()
     // 6 objects()
     // 9 FP()
-    // 10
-    collections()
+    // 10 collections()
     
     println("\nEnd")
   }
