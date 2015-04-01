@@ -23,6 +23,7 @@ object Quickstart {
     // 6 objects()
     // 9 FP()
     // 10 collections()
+    // 11
     
     println("\nEnd")
   }
