@@ -24,9 +24,133 @@ object Quickstart {
     // 9 FP()
     // 10 collections()
     // 11
-    
+    files()
     println("\nEnd")
   }
+  
+  def files() {
+    
+    // 12.2. Writing Text Files 
+    import java.io._
+    val pw = new PrintWriter(new File("example.txt" )) 
+    for (i <- 1 to 10) {
+      pw.write(s"blah $i\n")
+    }
+    pw.close 
+    
+    // 12.1. How to Open and Read a Text File
+    import scala.io.Source
+    import java.io.{FileNotFoundException, IOException} 
+    try {
+      val bufferedSource = Source.fromFile("example.txt") 
+      for (line <- bufferedSource.getLines) { 
+        println(line.toUpperCase)
+      }
+      bufferedSource.close   
+    } catch { 
+      case e: FileNotFoundException => println("Couldn't find that file.") 
+      case e: IOException => println("Got an IOException!") 
+    } 
+   
+
+    // loan pattern:
+    def using
+    [A <: { def close(): Unit }, B] 
+    (resource: A)(f: A => B): 
+    B = {
+      try { f(resource)  } 
+      finally {  resource.close() }
+    }
+    // using the loan pattern
+    using(io.Source.fromFile("example.txt")) { 
+      source => { 
+        for (line <- source.getLines) { 
+            println(line)
+        }
+      } 
+    }
+    
+    try { 
+      val lines = using(io.Source.fromFile("example.txt")) { 
+        source => (for (line <- source.getLines) yield line).toList 
+      } 
+      Some(lines) 
+    } catch { 
+      case e: Exception => None 
+    } 
+    
+    // 12.6. Pretending that a String Is a File 
+    using(Source.fromString("foo\nbar\n")) { 
+      source => { 
+        for (line <- source.getLines) { 
+            println(line)
+        }
+      } 
+    }
+    
+    object FileUtils { 
+      def getLinesUppercased(source: io.Source): List[String] = { 
+        (for (line <- source.getLines) yield line.toUpperCase).toList 
+      } 
+    } 
+    
+    import org.scalatest.{FunSuite, BeforeAndAfter} 
+    class FileUtilTests extends FunSuite with BeforeAndAfter { 
+      var source: Source = _ 
+      after { source.close } 
+            // assumes the file has the string "foo" as its first line
+      test("1 - foo file") {
+        source = Source.fromFile("/Users/Al/tmp/foo") 
+        val lines = FileUtils.getLinesUppercased(source) 
+        assert(lines(0) == "FOO") 
+      } 
+      test("2 - foo string") {
+        source = Source.fromString("foo\n")
+        val lines = FileUtils.getLinesUppercased(source) 
+        assert(lines(0) == "FOO") 
+      } 
+    } 
+    val t = new FileUtilTests
+    t.execute ("2 - foo string")
+    
+    // 12.7. Using Serialization
+    
+    import java.io._
+    val nflx = new Stock("NFLX", BigDecimal(85.00)) 
+    val oos = new ObjectOutputStream(new FileOutputStream("nflx")) 
+    oos.writeObject(nflx)
+    oos.close 
+    // read the object back in
+    val ois = new ObjectInputStream(new FileInputStream("nflx")) 
+    val stock = ois.readObject.asInstanceOf[Stock]
+    ois.close 
+    println(stock)
+    
+    // 12.8. Listing Files in a Directory
+    var whereami = System.getProperty("user.dir")
+    println (whereami)
+    val myDir = new File(".")
+    whereami = myDir.getCanonicalPath()
+    println (whereami)
+    if (myDir.exists && myDir.isDirectory) { 
+      println (myDir.listFiles.filter(_.isFile).toList.mkString(", "))
+    }
+    
+    // 12.10. Executing External Commands
+    import sys.process._ 
+    val exitCode = Process("ls -al").!
+    Process("ls -al").lineStream.foreach { println }
+    // 12.13. Building a Pipeline of Commands
+    val numProcs = (Process("ps auxw") #| Process("wc -l")).!!
+    println(s"#procs = $numProcs") 
+    
+    // 12.18. Setting Environment Variables When Running Commands 
+    val output = Process("env", new File("/tmp"), 
+                         "VAR1" -> "foo",
+                         "VAR2" -> "bar").lineStream.foreach { println }
+    
+  }
+  
   
   def collections() {
     // 10.1. Understanding the Collections Hierarchy
