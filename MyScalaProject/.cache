@@ -27,7 +27,7 @@ name hashing:
 1 items
 0 -> false
 products:
-211 items
+229 items
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Animal.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Animal.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Animal.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Dog2.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Animal.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/FourLeggedAnimal.class
@@ -80,34 +80,37 @@ products:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Pizza.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/PizzaTrait$class.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Pizza.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/PizzaTrait.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anon$1.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$1.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$10.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$11.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$12.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$13.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$14.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$15.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$16.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$17.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$18.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$19.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$2.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$20.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$21$$anonfun$apply$2.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$21.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$22.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$23.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$24.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$25$$anonfun$apply$1$$anonfun$apply$2.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$25$$anonfun$apply$1.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$25.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$26.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$27.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$28.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$29.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$3.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$30$$anonfun$apply$4$$anonfun$apply$5.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$30$$anonfun$apply$4.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$30.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$31.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$32.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$33.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$34.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$35.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$37.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$38.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$39.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$4.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$40.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$5.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$6.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$7.class
@@ -165,8 +168,8 @@ products:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$8.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$9.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$1.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$10$$anonfun$apply$3.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$10$$anonfun$apply$4.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$10$$anonfun$apply$6.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$10$$anonfun$apply$7.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$10.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$11.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$12.class
@@ -187,8 +190,16 @@ products:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$8.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$9$$anonfun$apply$mcV$sp$1.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$9.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$greeting$1$1$$anonfun$30.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$greeting$1$1$$anonfun$31.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$1.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$2.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$3$$anonfun$apply$1.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$3.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$4$$anonfun$apply$3.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$4.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$5.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$6.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$greeting$1$1$$anonfun$35.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$greeting$1$1$$anonfun$36.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$greeting$1$1.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$numbers$1.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$objects$1.class
@@ -203,15 +214,21 @@ products:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$8.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CashRegister$2$.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$16.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$17.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$36$$anonfun$apply$5.class
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$36.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$19.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$20.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$41$$anonfun$apply$8.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$41.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$delayedInit$body.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$DateUtils$2$.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Dog$3.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Dog$4$.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$FileUtilTests$1$$anonfun$1.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$FileUtilTests$1$$anonfun$2.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$FileUtilTests$1$$anonfun$3.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$FileUtilTests$1.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$FileUtils$2$$anonfun$getLinesUppercased$1.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$FileUtils$2$.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$LargeMatchTest$2$.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$LargeMatchTest$2$delayedInit$body.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Margin$2$.class
@@ -237,10 +254,11 @@ products:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/StarfleetComponent.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/WarpCore.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/StarfleetComponent.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/gamma$$anon$1.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/StarfleetComponent.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/gamma.class
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Stock.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Stock.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/TimerCallback.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/TimerCallback$.class
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/TimerCallback.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/TimerCallback.class
 binary dependencies:
-36 items
+39 items
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Animal.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Animal.scala -> /Users/joshr/Downloads/eclipse/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/BaseSoundPlayer.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar
@@ -272,13 +290,16 @@ binary dependencies:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Pizza.scala -> /Users/joshr/Downloads/eclipse/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/eclipse/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/jars/scalatest_2.11-2.2.4.jar
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /usr/local/Cellar/scala/2.11.4/libexec/lib/scala-xml_2.11-1.0.2.jar
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/StarfleetComponent.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/StarfleetComponent.scala -> /Users/joshr/Downloads/eclipse/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Stock.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Stock.scala -> /Users/joshr/Downloads/eclipse/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/TimerCallback.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/TimerCallback.scala -> /Users/joshr/Downloads/eclipse/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar
 direct source dependencies:
-7 items
+8 items
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/MyPackage/Entry.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/MyPackage/package.scala
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/MyExtensionsObject.scala
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Person.scala
@@ -286,6 +307,7 @@ direct source dependencies:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Person3.scala
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Pet.scala
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Pizza.scala
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Stock.scala
 direct external dependencies:
 0 items
 public inherited source dependencies:
@@ -301,7 +323,7 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-211 items
+229 items
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Animal.scala -> Animal
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Animal.scala -> Dog2
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Animal.scala -> FourLeggedAnimal
@@ -356,34 +378,37 @@ class names:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anon$1
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$1
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$10
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$11
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$12
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$13
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$14
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$15
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$16
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$17
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$18
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$19
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$2
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$20
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$21
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$21$$anonfun$apply$2
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$22
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$23
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$24
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$25
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$25$$anonfun$apply$1
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$25$$anonfun$apply$1$$anonfun$apply$2
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$26
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$27
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$28
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$29
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$3
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$30
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$30$$anonfun$apply$4
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$30$$anonfun$apply$4$$anonfun$apply$5
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$31
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$32
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$33
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$34
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$35
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$37
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$38
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$39
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$4
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$40
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$5
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$6
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$7
@@ -442,8 +467,8 @@ class names:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$collections$9
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$controlStructures$1
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$controlStructures$10
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$controlStructures$10$$anonfun$apply$3
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$controlStructures$10$$anonfun$apply$4
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$controlStructures$10$$anonfun$apply$6
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$controlStructures$10$$anonfun$apply$7
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$controlStructures$11
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$controlStructures$12
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$controlStructures$13
@@ -463,9 +488,17 @@ class names:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$controlStructures$8
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$controlStructures$9
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$controlStructures$9$$anonfun$apply$mcV$sp$1
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$files$1
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$files$2
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$files$3
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$files$3$$anonfun$apply$1
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$files$4
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$files$4$$anonfun$apply$3
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$files$5
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$files$6
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$greeting$1$1
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$greeting$1$1$$anonfun$30
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$greeting$1$1$$anonfun$31
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$greeting$1$1$$anonfun$35
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$greeting$1$1$$anonfun$36
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$numbers$1
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$objects$1
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$saySomething2$1$1
@@ -479,14 +512,20 @@ class names:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$$anonfun$strings$8
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$CashRegister$2$
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$CopyBytes$2$
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$CopyBytes$2$$anonfun$16
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$CopyBytes$2$$anonfun$17
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$CopyBytes$2$$anonfun$36
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$CopyBytes$2$$anonfun$36$$anonfun$apply$5
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$CopyBytes$2$$anonfun$19
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$CopyBytes$2$$anonfun$20
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$CopyBytes$2$$anonfun$41
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$CopyBytes$2$$anonfun$41$$anonfun$apply$8
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$CopyBytes$2$delayedInit$body
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$DateUtils$2$
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$Dog$3
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$Dog$4$
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$FileUtilTests$1
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$FileUtilTests$1$$anonfun$1
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$FileUtilTests$1$$anonfun$2
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$FileUtilTests$1$$anonfun$3
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$FileUtils$2$
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$FileUtils$2$$anonfun$getLinesUppercased$1
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$LargeMatchTest$2$
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$LargeMatchTest$2$delayedInit$body
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> Quickstart$Margin$2$
@@ -511,12 +550,13 @@ class names:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/StarfleetComponent.scala -> WarpCore
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/StarfleetComponent.scala -> gamma
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/StarfleetComponent.scala -> gamma$$anon$1
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Stock.scala -> Stock
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/TimerCallback.scala -> TimerCallback
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/TimerCallback.scala -> TimerCallback$
 used names:
 0 items
 product stamps:
-211 items
+229 items
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Address$.class -> lastModified(1427878821000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Address.class -> lastModified(1427878821000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Angry$class.class -> lastModified(1427878821000)
@@ -562,156 +602,174 @@ product stamps:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Pizza.class -> lastModified(1427878821000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/PizzaTrait$class.class -> lastModified(1427878821000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/PizzaTrait.class -> lastModified(1427878821000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anon$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$10.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$11.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$12.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$13.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$14.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$15.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$18.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$19.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$2.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$20.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$21.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$22.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$23.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$24.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$25$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$25$$anonfun$apply$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$25.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$26.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$27.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$28.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$29.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$3.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$32.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$33.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$34.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$35.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$4.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$5.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$6.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$7.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$8.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$9.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$2.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$3.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$4.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$5.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$6.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$7.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$8.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$9.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$basicArrays$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$basicArrays$2.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$basicArrays$3.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$basicArrays$4.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$basicArrays$5.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$classes$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$10.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$11.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$12$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$12$$anonfun$apply$mcVI$sp$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$12.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$13.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$14.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$15.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$16.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$17.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$18.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$19.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$2.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$20.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$21.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$22.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$23.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$24.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$25.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$26.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$27.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$28.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$29.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$3.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$30.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$31.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$32.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$33.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$34.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$4.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$5.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$6.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$7.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$8.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$9.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$10$$anonfun$apply$3.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$10$$anonfun$apply$4.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$10.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$11.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$12.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$13.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$14.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$15.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$16.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$17.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$2.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$3.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$4$$anonfun$apply$mcVI$sp$3.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$4.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$5$$anonfun$apply$mcVI$sp$4.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$5.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$6$$anonfun$apply$mcVI$sp$5.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$6.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$7.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$8.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$9$$anonfun$apply$mcV$sp$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$9.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$greeting$1$1$$anonfun$30.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$greeting$1$1$$anonfun$31.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$greeting$1$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$numbers$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$objects$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$saySomething2$1$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$2.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$3.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$4.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$5.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$6.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$7.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$8.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$.class -> lastModified(1427883004000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CashRegister$2$.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$16.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$17.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$36$$anonfun$apply$5.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$36.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$delayedInit$body.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$DateUtils$2$.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Dog$3.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Dog$4$.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$LargeMatchTest$2$.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$LargeMatchTest$2$delayedInit$body.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Margin$2$.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Person$3.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Person$4$.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Printer$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$StringUtils$2$$anonfun$increment$1.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$StringUtils$2$.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Test2$2$.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Test2$2$delayedInit$body.class -> lastModified(1427883005000)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart.class -> lastModified(1427883004000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anon$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$10.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$11.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$12.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$13.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$14.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$15.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$16.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$17.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$18.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$21$$anonfun$apply$2.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$21.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$22.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$23.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$24.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$25.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$26.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$27.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$28.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$29.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$30$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$30$$anonfun$apply$4.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$30.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$31.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$32.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$33.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$34.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$37.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$38.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$39.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$4.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$40.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$5.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$6.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$7.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$8.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$9.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$2.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$3.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$4.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$5.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$6.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$7.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$8.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$FP$9.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$basicArrays$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$basicArrays$2.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$basicArrays$3.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$basicArrays$4.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$basicArrays$5.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$classes$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$10.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$11.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$12$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$12$$anonfun$apply$mcVI$sp$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$12.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$13.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$14.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$15.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$16.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$17.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$18.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$19.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$2.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$20.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$21.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$22.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$23.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$24.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$25.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$26.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$27.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$28.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$29.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$3.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$30.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$31.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$32.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$33.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$34.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$4.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$5.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$6.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$7.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$8.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$collections$9.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$10$$anonfun$apply$6.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$10$$anonfun$apply$7.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$10.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$11.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$12.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$13.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$14.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$15.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$16.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$17.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$2.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$3.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$4$$anonfun$apply$mcVI$sp$3.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$4.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$5$$anonfun$apply$mcVI$sp$4.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$5.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$6$$anonfun$apply$mcVI$sp$5.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$6.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$7.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$8.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$9$$anonfun$apply$mcV$sp$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$controlStructures$9.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$2.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$3$$anonfun$apply$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$3.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$4$$anonfun$apply$3.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$4.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$5.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$files$6.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$greeting$1$1$$anonfun$35.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$greeting$1$1$$anonfun$36.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$greeting$1$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$numbers$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$objects$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$saySomething2$1$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$2.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$3.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$4.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$5.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$6.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$7.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$$anonfun$strings$8.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CashRegister$2$.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$19.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$20.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$41$$anonfun$apply$8.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$$anonfun$41.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$CopyBytes$2$delayedInit$body.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$DateUtils$2$.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Dog$3.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Dog$4$.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$FileUtilTests$1$$anonfun$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$FileUtilTests$1$$anonfun$2.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$FileUtilTests$1$$anonfun$3.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$FileUtilTests$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$FileUtils$2$$anonfun$getLinesUppercased$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$FileUtils$2$.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$LargeMatchTest$2$.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$LargeMatchTest$2$delayedInit$body.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Margin$2$.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Person$3.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Person$4$.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Printer$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$StringUtils$2$$anonfun$increment$1.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$StringUtils$2$.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Test2$2$.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart$Test2$2$delayedInit$body.class -> lastModified(1428050317000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Quickstart.class -> lastModified(1428050317000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/RomulanStuff.class -> lastModified(1427878822000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/StarfleetComponent.class -> lastModified(1427878822000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/StarfleetWarpCore.class -> lastModified(1427878822000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/StarfleetWarpCore2.class -> lastModified(1427878822000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Starship.class -> lastModified(1427878822000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Starship2.class -> lastModified(1427878822000)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Stock.class -> lastModified(1428035943000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Sum$.class -> lastModified(1427878822000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/Sum.class -> lastModified(1427878822000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/TimerCallback$.class -> lastModified(1427878822000)
@@ -729,7 +787,7 @@ product stamps:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/gamma$$anon$1.class -> lastModified(1427878822000)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/bin/gamma.class -> lastModified(1427878822000)
 source stamps:
-18 items
+19 items
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Animal.scala -> hash(b2801b431c363d86210a03ea4f438f7d64afff0c)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/BaseSoundPlayer.scala -> hash(30c11259e616e0d359adbb8d77821393bc9e7693)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/JavaInterop.scala -> hash(3d4c3f958c0cc58e84a9b311be66b3730e99d429)
@@ -745,21 +803,24 @@ source stamps:
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Person4.scala -> hash(36beba72bacc9606a87cdcffdbbd4eefe13748d0)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Pet.scala -> hash(97c4e71ded6a870b020c056cd0db24809f3e3daa)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Pizza.scala -> hash(d4a6c2579690fc09389e96366e398f8ae0b50865)
-/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> hash(b2cf897c36033725336ba8f7ae46cdec921f0d49)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> hash(ff3e459a33854bafb0a91d3fffaadfc0370e3cdd)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/StarfleetComponent.scala -> hash(36e74b213f444eeb19cfb80dd06dccd0a57610e2)
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Stock.scala -> hash(dca8f24774d69901f2c89bbbc4cdff133ab95d82)
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/TimerCallback.scala -> hash(e0fc908fe18d716131599116814ef17f52bba016)
 binary stamps:
-3 items
+4 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1395128855000)
 /Users/joshr/Downloads/eclipse/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar -> lastModified(1425738334000)
+/Users/joshr/Downloads/jars/scalatest_2.11-2.2.4.jar -> lastModified(1427954771000)
 /usr/local/Cellar/scala/2.11.4/libexec/lib/scala-xml_2.11-1.0.2.jar -> lastModified(1414105238000)
 class names:
-3 items
+4 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
-/Users/joshr/Downloads/eclipse/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar -> scala.math.BigDecimal$
-/usr/local/Cellar/scala/2.11.4/libexec/lib/scala-xml_2.11-1.0.2.jar -> scala.xml.TopScope$
+/Users/joshr/Downloads/eclipse/plugins/org.scala-lang.scala-library_2.11.6.v20150224-172222-092690e7bf.jar -> scala.collection.TraversableLike
+/Users/joshr/Downloads/jars/scalatest_2.11-2.2.4.jar -> org.scalatest.BeforeAndAfter
+/usr/local/Cellar/scala/2.11.4/libexec/lib/scala-xml_2.11-1.0.2.jar -> scala.xml.Text
 internal apis:
-18 items
+19 items
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Animal.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC1Jd2MAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAGQW5pbWFsdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AFN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AANBbnlzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTdAAFc2NhbGFxAH4AWnNxAH4AEnEAfgAgdXEAfgAhAAAAAHNxAH4AIwF0AAtXYWdnaW5nVGFpbHVxAH4AJgAAAAB+cQB+ACh0AAVUcmFpdHVxAH4ALAAAAABzcQB+AC4AcHNxAH4AM3EAfgA4c3EAfgAuAHBzcQB+ADNzcQB+ADtzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4ARQAAAAJzcQB+AEdxAH4ASnNxAH4AS3NxAH4ATnVxAH4AUQAAAANzcQB+AFNxAH4AVnNxAH4AU3EAfgBYcQB+AFpzcQB+AEdxAH4AXHNxAH4AS3NxAH4ATnVxAH4AUQAAAAJzcQB+AFNxAH4AYXEAfgBac3EAfgAScQB+ACB1cQB+ACEAAAAAc3EAfgAjAXQAEEZvdXJMZWdnZWRBbmltYWx1cQB+ACYAAAAAcQB+AGd1cQB+ACwAAAAAc3EAfgAuAHBzcQB+ADNxAH4AOHNxAH4ALgBwc3EAfgAzc3EAfgA7c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+AEUAAAACc3EAfgBHcQB+AEpzcQB+AEtzcQB+AE51cQB+AFEAAAADc3EAfgBTcQB+AFZzcQB+AFNxAH4AWHEAfgBac3EAfgBHcQB+AFxzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTcQB+AGFxAH4AWnNxAH4AEnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AAREb2cydXEAfgAmAAAAAHEAfgAqdXEAfgAsAAAAAHNxAH4ALgBwc3EAfgAzcQB+ADhzcQB+AC4AcHNxAH4AM3NxAH4AO3NxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgAQAAAAAHNxAH4ALgBwc3EAfgAzdXEAfgBFAAAABXNxAH4AR3QAEEZvdXJMZWdnZWRBbmltYWxzcQB+AEtzcQB+AE51cQB+AFEAAAABcQB+AFpzcQB+AEd0AAtXYWdnaW5nVGFpbHEAfgC4c3EAfgBHdAAGQW5pbWFscQB+ALhzcQB+AEdxAH4ASnNxAH4AS3NxAH4ATnVxAH4AUQAAAANzcQB+AFNxAH4AVnNxAH4AU3EAfgBYcQB+AFpzcQB+AEdxAH4AXHNxAH4AS3NxAH4ATnVxAH4AUQAAAAJzcQB+AFNxAH4AYXEAfgBadXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUx0NaX4dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFLKAG0McNj2GIQoD6k9Dj31kr/8M
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/BaseSoundPlayer.scala -> 
@@ -791,15 +852,17 @@ rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhf
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Pizza.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB6CHuDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAFUGl6emF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnRp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
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHArgI/DAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAKUXVpY2tzdGFydHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ALgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA1c3EAfgAuAXVxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADR0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBRdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4APXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ARVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANHNxAH4ARHQABUFycmF5cQB+AEp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ARHQABlN0cmluZ3NxAH4ASHNxAH4AS3VxAH4ATgAAAANzcQB+AFB0AARqYXZhc3EAfgBQdAAEbGFuZ3EAfgBVcHNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cQB+AGkAAAACc3EAfgBEdAAGT2JqZWN0cQB+AG1zcQB+AER0AANBbnlxAH4ASnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUx0dUtBdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFLLPiXw2AzclM2uo965GzeySHw1J
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBRYN2IAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAKUXVpY2tzdGFydHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ALgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA1c3EAfgAuAXVxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADR0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBRdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4APXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ARVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANHNxAH4ARHQABUFycmF5cQB+AEp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ARHQABlN0cmluZ3NxAH4ASHNxAH4AS3VxAH4ATgAAAANzcQB+AFB0AARqYXZhc3EAfgBQdAAEbGFuZ3EAfgBVcHNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cQB+AGkAAAACc3EAfgBEdAAGT2JqZWN0cQB+AG1zcQB+AER0AANBbnlxAH4ASnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUx+boN9dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFP8+RZozhUuvsKkdP/+q38A3Djzd
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/StarfleetComponent.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDImbgcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAxzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAASU3RhcmZsZWV0Q29tcG9uZW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+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
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Stock.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBuSH/VAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAcTAAFdmFsdWVxAH4AHHhwdAAFdmFsdWV0AAQxMjNMc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAEFNlcmlhbFZlcnNpb25VSURzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AC9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ADxzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AAVTdG9ja3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4ATXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AL3NxAH4ATABwc3EAfgBRc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AMHNxAH4ATABwc3EAfgBRdXEAfgAQAAAAAHNxAH4ATABwc3EAfgBRdXEAfgAQAAAAAHNxAH4ATABwc3EAfgBRdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcQB+AC10AAxTZXJpYWxpemFibGVzcQB+ADNzcQB+ADZ1cQB+ADkAAAACc3EAfgA7cQB+AD5xAH4AQHNxAH4ALXEAfgBkc3EAfgAzc3EAfgA2dXEAfgA5AAAAA3NxAH4AO3QABGphdmFzcQB+ADt0AAJpb3EAfgBAc3EAfgAtdAAGT2JqZWN0c3EAfgAzc3EAfgA2dXEAfgA5AAAAA3NxAH4AO3EAfgBuc3EAfgA7dAAEbGFuZ3EAfgBAc3EAfgAtdAADQW55cQB+AGV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH2TLyt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9iaW50ADgvVXNlcnMvam9zaHIvRG93bmxvYWRzL0dpdC9NeVNjYWxhRnVuL015U2NhbGFQcm9qZWN0L3NyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU3KjyR3TWmQHyyJu7xM3/Ezq5XYI=
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/TimerCallback.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAYXdtRAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAANVGltZXJDYWxsYmFja3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AU3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVHNxAH4AR3QAA0FueXNxAH4AS3NxAH4ATnVxAH4AUQAAAAJzcQB+AFN0AAVzY2FsYXEAfgBadXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUx0NaX4dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFOD8kI/hjXFhMVmRFoFO8X9Su6AW
 external apis:
 0 items
 source infos:
-18 items
+19 items
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Animal.scala -> 
 AAAAAAAAAAA=
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/BaseSoundPlayer.scala -> 
@@ -831,13 +894,15 @@ AAAAAAAAAAA=
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Pizza.scala -> 
 AAAAAAAAAAA=
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Quickstart.scala -> 
-AAAABgAHY29tcGlsZQEAAAIeAA4gICAgMTkudG9GbG9hdAEAAEZJAQAAAAcBAAcgICAgICAgAQBJL1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmMvUXVpY2tzdGFydC5zY2FsYQEASS9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3Qvc3JjL1F1aWNrc3RhcnQuc2NhbGEAX2EgcHVyZSBleHByZXNzaW9uIGRvZXMgbm90aGluZyBpbiBzdGF0ZW1lbnQgcG9zaXRpb247IHlvdSBtYXkgYmUgb21pdHRpbmcgbmVjZXNzYXJ5IHBhcmVudGhlc2VzAQAHY29tcGlsZQEAAAItADQgICAgMS43OTc2OTMxMzQ4NjIzMTU3RTMwOCA+IERvdWJsZS5Qb3NpdGl2ZUluZmluaXR5AQAAR6gBAAAAGwEAGyAgICAgICAgICAgICAgICAgICAgICAgICAgIAEASS9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3Qvc3JjL1F1aWNrc3RhcnQuc2NhbGEBAEkvVXNlcnMvam9zaHIvRG93bmxvYWRzL0dpdC9NeVNjYWxhRnVuL015U2NhbGFQcm9qZWN0L3NyYy9RdWlja3N0YXJ0LnNjYWxhAF9hIHB1cmUgZXhwcmVzc2lvbiBkb2VzIG5vdGhpbmcgaW4gc3RhdGVtZW50IHBvc2l0aW9uOyB5b3UgbWF5IGJlIG9taXR0aW5nIG5lY2Vzc2FyeSBwYXJlbnRoZXNlcwEAB2NvbXBpbGUBAAADaQALICAgICAgdHJ5IHsBAABxwQEAAAAGAQAGICAgICAgAQBJL1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmMvUXVpY2tzdGFydC5zY2FsYQEASS9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3Qvc3JjL1F1aWNrc3RhcnQuc2NhbGEAaUEgdHJ5IHdpdGhvdXQgYSBjYXRjaCBvciBmaW5hbGx5IGlzIGVxdWl2YWxlbnQgdG8gcHV0dGluZyBpdHMgYm9keSBpbiBhIGJsb2NrOyBubyBleGNlcHRpb25zIGFyZSBoYW5kbGVkLgEAB2NvbXBpbGUBAAADVwAjICAgIG9iamVjdCBDb3B5Qnl0ZXMgZXh0ZW5kcyBBcHAgeyABAABveQEAAAALAQALICAgICAgICAgICABAEkvVXNlcnMvam9zaHIvRG93bmxvYWRzL0dpdC9NeVNjYWxhRnVuL015U2NhbGFQcm9qZWN0L3NyYy9RdWlja3N0YXJ0LnNjYWxhAQBJL1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmMvUXVpY2tzdGFydC5zY2FsYQDgQ29weUJ5dGVzJDIgaGFzIGEgbWFpbiBtZXRob2Qgd2l0aCBwYXJhbWV0ZXIgdHlwZSBBcnJheVtTdHJpbmddLCBidXQgUXVpY2tzdGFydC5Db3B5Qnl0ZXMkMiB3aWxsIG5vdCBiZSBhIHJ1bm5hYmxlIHByb2dyYW0uCiAgUmVhc29uOiBjb21wYW5pb24gY29udGFpbnMgaXRzIG93biBtYWluIG1ldGhvZCwgd2hpY2ggbWVhbnMgbm8gc3RhdGljIGZvcndhcmRlciBjYW4gYmUgZ2VuZXJhdGVkLgoBAAdjb21waWxlAQAAAsYAKyAgICBvYmplY3QgTGFyZ2VNYXRjaFRlc3QgZXh0ZW5kcyBBcHAgeyAgICABAABccQEAAAALAQALICAgICAgICAgICABAEkvVXNlcnMvam9zaHIvRG93bmxvYWRzL0dpdC9NeVNjYWxhRnVuL015U2NhbGFQcm9qZWN0L3NyYy9RdWlja3N0YXJ0LnNjYWxhAQBJL1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmMvUXVpY2tzdGFydC5zY2FsYQDqTGFyZ2VNYXRjaFRlc3QkMiBoYXMgYSBtYWluIG1ldGhvZCB3aXRoIHBhcmFtZXRlciB0eXBlIEFycmF5W1N0cmluZ10sIGJ1dCBRdWlja3N0YXJ0LkxhcmdlTWF0Y2hUZXN0JDIgd2lsbCBub3QgYmUgYSBydW5uYWJsZSBwcm9ncmFtLgogIFJlYXNvbjogY29tcGFuaW9uIGNvbnRhaW5zIGl0cyBvd24gbWFpbiBtZXRob2QsIHdoaWNoIG1lYW5zIG5vIHN0YXRpYyBmb3J3YXJkZXIgY2FuIGJlIGdlbmVyYXRlZC4KAQAHY29tcGlsZQEAAALoAB8gICAgb2JqZWN0IFRlc3QyIGV4dGVuZHMgQXBwIHsgAQAAYKwBAAAACwEACyAgICAgICAgICAgAQBJL1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmMvUXVpY2tzdGFydC5zY2FsYQEASS9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3Qvc3JjL1F1aWNrc3RhcnQuc2NhbGEA2FRlc3QyJDIgaGFzIGEgbWFpbiBtZXRob2Qgd2l0aCBwYXJhbWV0ZXIgdHlwZSBBcnJheVtTdHJpbmddLCBidXQgUXVpY2tzdGFydC5UZXN0MiQyIHdpbGwgbm90IGJlIGEgcnVubmFibGUgcHJvZ3JhbS4KICBSZWFzb246IGNvbXBhbmlvbiBjb250YWlucyBpdHMgb3duIG1haW4gbWV0aG9kLCB3aGljaCBtZWFucyBubyBzdGF0aWMgZm9yd2FyZGVyIGNhbiBiZSBnZW5lcmF0ZWQuCgEAAAAA
+AAAABgAHY29tcGlsZQEAAAKaAA4gICAgMTkudG9GbG9hdAEAAFSxAQAAAAcBAAcgICAgICAgAQBJL1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmMvUXVpY2tzdGFydC5zY2FsYQEASS9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3Qvc3JjL1F1aWNrc3RhcnQuc2NhbGEAX2EgcHVyZSBleHByZXNzaW9uIGRvZXMgbm90aGluZyBpbiBzdGF0ZW1lbnQgcG9zaXRpb247IHlvdSBtYXkgYmUgb21pdHRpbmcgbmVjZXNzYXJ5IHBhcmVudGhlc2VzAQAHY29tcGlsZQEAAAKpADQgICAgMS43OTc2OTMxMzQ4NjIzMTU3RTMwOCA+IERvdWJsZS5Qb3NpdGl2ZUluZmluaXR5AQAAVhABAAAAGwEAGyAgICAgICAgICAgICAgICAgICAgICAgICAgIAEASS9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3Qvc3JjL1F1aWNrc3RhcnQuc2NhbGEBAEkvVXNlcnMvam9zaHIvRG93bmxvYWRzL0dpdC9NeVNjYWxhRnVuL015U2NhbGFQcm9qZWN0L3NyYy9RdWlja3N0YXJ0LnNjYWxhAF9hIHB1cmUgZXhwcmVzc2lvbiBkb2VzIG5vdGhpbmcgaW4gc3RhdGVtZW50IHBvc2l0aW9uOyB5b3UgbWF5IGJlIG9taXR0aW5nIG5lY2Vzc2FyeSBwYXJlbnRoZXNlcwEAB2NvbXBpbGUBAAAD5QALICAgICAgdHJ5IHsBAACAKQEAAAAGAQAGICAgICAgAQBJL1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmMvUXVpY2tzdGFydC5zY2FsYQEASS9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3Qvc3JjL1F1aWNrc3RhcnQuc2NhbGEAaUEgdHJ5IHdpdGhvdXQgYSBjYXRjaCBvciBmaW5hbGx5IGlzIGVxdWl2YWxlbnQgdG8gcHV0dGluZyBpdHMgYm9keSBpbiBhIGJsb2NrOyBubyBleGNlcHRpb25zIGFyZSBoYW5kbGVkLgEAB2NvbXBpbGUBAAAD0wAjICAgIG9iamVjdCBDb3B5Qnl0ZXMgZXh0ZW5kcyBBcHAgeyABAAB94QEAAAALAQALICAgICAgICAgICABAEkvVXNlcnMvam9zaHIvRG93bmxvYWRzL0dpdC9NeVNjYWxhRnVuL015U2NhbGFQcm9qZWN0L3NyYy9RdWlja3N0YXJ0LnNjYWxhAQBJL1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmMvUXVpY2tzdGFydC5zY2FsYQDgQ29weUJ5dGVzJDIgaGFzIGEgbWFpbiBtZXRob2Qgd2l0aCBwYXJhbWV0ZXIgdHlwZSBBcnJheVtTdHJpbmddLCBidXQgUXVpY2tzdGFydC5Db3B5Qnl0ZXMkMiB3aWxsIG5vdCBiZSBhIHJ1bm5hYmxlIHByb2dyYW0uCiAgUmVhc29uOiBjb21wYW5pb24gY29udGFpbnMgaXRzIG93biBtYWluIG1ldGhvZCwgd2hpY2ggbWVhbnMgbm8gc3RhdGljIGZvcndhcmRlciBjYW4gYmUgZ2VuZXJhdGVkLgoBAAdjb21waWxlAQAAA0IAKyAgICBvYmplY3QgTGFyZ2VNYXRjaFRlc3QgZXh0ZW5kcyBBcHAgeyAgICABAABq2QEAAAALAQALICAgICAgICAgICABAEkvVXNlcnMvam9zaHIvRG93bmxvYWRzL0dpdC9NeVNjYWxhRnVuL015U2NhbGFQcm9qZWN0L3NyYy9RdWlja3N0YXJ0LnNjYWxhAQBJL1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmMvUXVpY2tzdGFydC5zY2FsYQDqTGFyZ2VNYXRjaFRlc3QkMiBoYXMgYSBtYWluIG1ldGhvZCB3aXRoIHBhcmFtZXRlciB0eXBlIEFycmF5W1N0cmluZ10sIGJ1dCBRdWlja3N0YXJ0LkxhcmdlTWF0Y2hUZXN0JDIgd2lsbCBub3QgYmUgYSBydW5uYWJsZSBwcm9ncmFtLgogIFJlYXNvbjogY29tcGFuaW9uIGNvbnRhaW5zIGl0cyBvd24gbWFpbiBtZXRob2QsIHdoaWNoIG1lYW5zIG5vIHN0YXRpYyBmb3J3YXJkZXIgY2FuIGJlIGdlbmVyYXRlZC4KAQAHY29tcGlsZQEAAANkAB8gICAgb2JqZWN0IFRlc3QyIGV4dGVuZHMgQXBwIHsgAQAAbxQBAAAACwEACyAgICAgICAgICAgAQBJL1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmMvUXVpY2tzdGFydC5zY2FsYQEASS9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3Qvc3JjL1F1aWNrc3RhcnQuc2NhbGEA2FRlc3QyJDIgaGFzIGEgbWFpbiBtZXRob2Qgd2l0aCBwYXJhbWV0ZXIgdHlwZSBBcnJheVtTdHJpbmddLCBidXQgUXVpY2tzdGFydC5UZXN0MiQyIHdpbGwgbm90IGJlIGEgcnVubmFibGUgcHJvZ3JhbS4KICBSZWFzb246IGNvbXBhbmlvbiBjb250YWlucyBpdHMgb3duIG1haW4gbWV0aG9kLCB3aGljaCBtZWFucyBubyBzdGF0aWMgZm9yd2FyZGVyIGNhbiBiZSBnZW5lcmF0ZWQuCgEAAAAA
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/StarfleetComponent.scala -> 
+AAAAAAAAAAA=
+/Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/Stock.scala -> 
 AAAAAAAAAAA=
 /Users/joshr/Downloads/Git/MyScalaFun/MyScalaProject/src/TimerCallback.scala -> 
 AAAAAAAAAAA=
 compilations:
-270 items
+294 items
 000 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS9lhPKp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9Vc2Vycy9qb3Noci9Eb2N1bWVudHMvSmF2YVdvcmtzcGFjZS9NeVNjYWxhUHJvamVjdC9iaW50ADcvVXNlcnMvam9zaHIvRG9jdW1lbnRzL0phdmFXb3Jrc3BhY2UvTXlTY2FsYVByb2plY3Qvc3Jj
 001 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS9lhSyl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9Vc2Vycy9qb3Noci9Eb2N1bWVudHMvSmF2YVdvcmtzcGFjZS9NeVNjYWxhUHJvamVjdC9iaW50ADcvVXNlcnMvam9zaHIvRG9jdW1lbnRzL0phdmFXb3Jrc3BhY2UvTXlTY2FsYVByb2plY3Qvc3Jj
 002 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS9lilBJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANy9Vc2Vycy9qb3Noci9Eb2N1bWVudHMvSmF2YVdvcmtzcGFjZS9NeVNjYWxhUHJvamVjdC9iaW50ADcvVXNlcnMvam9zaHIvRG9jdW1lbnRzL0phdmFXb3Jrc3BhY2UvTXlTY2FsYVByb2plY3Qvc3Jj
@@ -1108,3 +1173,27 @@ compilations:
 267 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHQ1pfh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
 268 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHRLS1d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
 269 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHR1S0F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+270 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHhKOMt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+271 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHhfJpF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+272 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHhi8XJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+273 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHhkJJB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+274 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHh/hA11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+275 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHiCCQJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+276 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHiDZpN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+277 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHiDwY51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+278 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHix1UV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+279 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHjOOyJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+280 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHjPogZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+281 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH2RpiZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+282 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH2TLyt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+283 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH2WGQh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+284 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH2d4sN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+285 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH2hIYN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+286 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH26v7p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+287 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH2/LTh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+288 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH4lKsh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+289 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH4qmaF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+290 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH5YGop1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+291 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH5aDxp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+292 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH5ty7t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
+293 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTH5ug311cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9qb3Noci9Eb3dubG9hZHMvR2l0L015U2NhbGFGdW4vTXlTY2FsYVByb2plY3QvYmludAA4L1VzZXJzL2pvc2hyL0Rvd25sb2Fkcy9HaXQvTXlTY2FsYUZ1bi9NeVNjYWxhUHJvamVjdC9zcmM=
